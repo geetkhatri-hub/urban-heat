@@ -1,0 +1,67 @@
+[
+  {
+    "id": "hosp-1",
+    "name": "Apollo Speciality - Indiranagar",
+    "coordinates": [12.9720, 77.6400],
+    "capacity": 250,
+    "occupiedBeds": 210,
+    "heatstrokeBedsTotal": 35,
+    "heatstrokeBedsOccupied": 29,
+    "ambulanceDispatched": 6,
+    "ambulanceTotal": 8,
+    "status": "Critical",
+    "waterTankerStatus": "Refilled"
+  },
+  {
+    "id": "hosp-2",
+    "name": "St. John's Medical College",
+    "coordinates": [12.9320, 77.6250],
+    "capacity": 600,
+    "occupiedBeds": 480,
+    "heatstrokeBedsTotal": 80,
+    "heatstrokeBedsOccupied": 42,
+    "ambulanceDispatched": 8,
+    "ambulanceTotal": 15,
+    "status": "Stable",
+    "waterTankerStatus": "Required"
+  },
+  {
+    "id": "hosp-3",
+    "name": "Whitefield General Hospital",
+    "coordinates": [12.9650, 77.7450],
+    "capacity": 180,
+    "occupiedBeds": 172,
+    "heatstrokeBedsTotal": 40,
+    "heatstrokeBedsOccupied": 39,
+    "ambulanceDispatched": 9,
+    "ambulanceTotal": 10,
+    "status": "Emergency",
+    "waterTankerStatus": "Dispatched"
+  },
+  {
+    "id": "hosp-4",
+    "name": "Jayanagar Government Hospital",
+    "coordinates": [12.9280, 77.5850],
+    "capacity": 300,
+    "occupiedBeds": 200,
+    "heatstrokeBedsTotal": 20,
+    "heatstrokeBedsOccupied": 4,
+    "ambulanceDispatched": 1,
+    "ambulanceTotal": 5,
+    "status": "Optimal",
+    "waterTankerStatus": "Refilled"
+  },
+  {
+    "id": "hosp-5",
+    "name": "Malleshwaram ESI Hospital",
+    "coordinates": [13.0010, 77.5750],
+    "capacity": 220,
+    "occupiedBeds": 180,
+    "heatstrokeBedsTotal": 30,
+    "heatstrokeBedsOccupied": 18,
+    "ambulanceDispatched": 3,
+    "ambulanceTotal": 6,
+    "status": "Stable",
+    "waterTankerStatus": "Optimal"
+  }
+]

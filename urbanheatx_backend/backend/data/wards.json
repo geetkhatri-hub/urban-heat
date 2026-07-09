@@ -1,0 +1,184 @@
+[
+  {
+    "id": "ward-1",
+    "name": "Indiranagar Core",
+    "riskLevel": "High",
+    "temperature": 41.2,
+    "treeCoverage": 18,
+    "population": 45000,
+    "gridLoad": 88,
+    "budgetAllocated": 240000,
+    "budgetRequired": 350000,
+    "coordinates": [
+      [12.9780, 77.6350],
+      [12.9780, 77.6500],
+      [12.9630, 77.6500],
+      [12.9630, 77.6350]
+    ],
+    "center": [12.9705, 77.6425],
+    "recommendations": {
+      "priority": "High",
+      "reason": "Dense concrete canopy and low tree shade have spiked daytime land surface temperatures by 4.2°C. Grid power load is near critical capacity due to HVAC overloads.",
+      "coolingExpected": 2.1,
+      "roi": "14.2%",
+      "cost": 110000,
+      "policy": "Mandatory cool-roof retrofitting for all commercial spaces above 5,000 sq ft, and deployment of 3 mini-parks in parking lots."
+    }
+  },
+  {
+    "id": "ward-2",
+    "name": "Koramangala Corridor",
+    "riskLevel": "Medium",
+    "temperature": 38.5,
+    "treeCoverage": 34,
+    "population": 60000,
+    "gridLoad": 72,
+    "budgetAllocated": 180000,
+    "budgetRequired": 200000,
+    "coordinates": [
+      [12.9400, 77.6100],
+      [12.9400, 77.6350],
+      [12.9250, 77.6350],
+      [12.9250, 77.6100]
+    ],
+    "center": [12.9325, 77.6225],
+    "recommendations": {
+      "priority": "Medium",
+      "reason": "High population density but stable residential greening helps buffer extreme heat. Main risk is localized heat entrapment near tech hubs.",
+      "coolingExpected": 1.2,
+      "roi": "11.5%",
+      "cost": 80000,
+      "policy": "Urban forestry corridors linking existing parks and subsidies for green wall installations on commercial high-rises."
+    }
+  },
+  {
+    "id": "ward-3",
+    "name": "Whitefield Industrial",
+    "riskLevel": "Extreme",
+    "temperature": 43.1,
+    "treeCoverage": 8,
+    "population": 85000,
+    "gridLoad": 95,
+    "budgetAllocated": 380000,
+    "budgetRequired": 600000,
+    "coordinates": [
+      [12.9750, 77.7200],
+      [12.9750, 77.7600],
+      [12.9500, 77.7600],
+      [12.9500, 77.7200]
+    ],
+    "center": [12.9625, 77.7400],
+    "recommendations": {
+      "priority": "Critical",
+      "reason": "Industrial zone with expansive asphalt pavements and asphalt roof sheets. Tree coverage is at an alarming 8%. Hospital admissions for heat stroke have doubled in 72 hours.",
+      "coolingExpected": 4.5,
+      "roi": "22.8%",
+      "cost": 220000,
+      "policy": "Immediate deployment of smart misting fans along labor transit corridors and 50% industrial rooftop solar shading incentives."
+    }
+  },
+  {
+    "id": "ward-4",
+    "name": "Jayanagar Residential",
+    "riskLevel": "Low",
+    "temperature": 35.2,
+    "treeCoverage": 52,
+    "population": 38000,
+    "gridLoad": 45,
+    "budgetAllocated": 120000,
+    "budgetRequired": 120000,
+    "coordinates": [
+      [12.9350, 77.5800],
+      [12.9350, 77.6000],
+      [12.9200, 77.6000],
+      [12.9200, 77.5800]
+    ],
+    "center": [12.9275, 77.5900],
+    "recommendations": {
+      "priority": "Low",
+      "reason": "Excellent tree canopy coverage provides natural cooling. Microclimate is 3.5°C cooler than industrial blocks. Grid capacity is highly stable.",
+      "coolingExpected": 0.5,
+      "roi": "6.2%",
+      "cost": 30000,
+      "policy": "Community tree conservation schemes and maintenance of existing smart public drinking fountains."
+    }
+  },
+  {
+    "id": "ward-5",
+    "name": "Malleshwaram Heritage",
+    "riskLevel": "Medium",
+    "temperature": 37.8,
+    "treeCoverage": 41,
+    "population": 42000,
+    "gridLoad": 64,
+    "budgetAllocated": 150000,
+    "budgetRequired": 170000,
+    "coordinates": [
+      [13.0100, 77.5600],
+      [13.0100, 77.5800],
+      [12.9900, 77.5800],
+      [12.9900, 77.5600]
+    ],
+    "center": [13.0000, 77.5700],
+    "recommendations": {
+      "priority": "Medium",
+      "reason": "Moderate tree cover but high density of senior citizens. Temperature is buffered by heritage parks but high risk of heatstroke in non-air-conditioned older homes.",
+      "coolingExpected": 1.5,
+      "roi": "13.1%",
+      "cost": 65000,
+      "policy": "Opening of 2 community cooling centers in public libraries and active monitoring of geriatric populations by health workers."
+    }
+  },
+  {
+    "id": "ward-6",
+    "name": "Hebbal Lake Sector",
+    "riskLevel": "Low",
+    "temperature": 36.9,
+    "treeCoverage": 30,
+    "population": 50000,
+    "gridLoad": 58,
+    "budgetAllocated": 110000,
+    "budgetRequired": 140000,
+    "coordinates": [
+      [13.0450, 77.5800],
+      [13.0450, 77.6100],
+      [13.0200, 77.6100],
+      [13.0200, 77.5800]
+    ],
+    "center": [13.0325, 77.5950],
+    "recommendations": {
+      "priority": "Low",
+      "reason": "Proximity to Hebbal Lake helps lower evening temperatures. Moderate green belts. Main hazard is high-rise heat trap wind blocking.",
+      "coolingExpected": 0.8,
+      "roi": "8.4%",
+      "cost": 50000,
+      "policy": "Enforce wind corridor designs on upcoming vertical residential designs and preserve water body wetlands."
+    }
+  },
+  {
+    "id": "ward-7",
+    "name": "Shivajinagar Commercial",
+    "riskLevel": "High",
+    "temperature": 40.8,
+    "treeCoverage": 12,
+    "population": 55000,
+    "gridLoad": 86,
+    "budgetAllocated": 210000,
+    "budgetRequired": 300000,
+    "coordinates": [
+      [12.9900, 77.5900],
+      [12.9900, 77.6100],
+      [12.9750, 77.6100],
+      [12.9750, 77.5900]
+    ],
+    "center": [12.9825, 77.6000],
+    "recommendations": {
+      "priority": "High",
+      "reason": "Dense market zones, heavy pedestrian traffic, and virtual absence of tree cover. Heavy concrete load storage raises nighttime temperatures.",
+      "coolingExpected": 2.4,
+      "roi": "16.5%",
+      "cost": 130000,
+      "policy": "Establishment of cooling shelters at bus hubs and installation of solar-reflective pergolas above walking lanes."
+    }
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "summary": {
+    "cityHealthScore": 68,
+    "maxTemperature": 43.1,
+    "averageTemperature": 38.4,
+    "populationAtRisk": 185000,
+    "totalBudget": 1800000,
+    "budgetSpent": 1390000,
+    "treeCoveragePercent": 26.4,
+    "averageGridLoad": 74.5,
+    "heatwaveLevel": "Level-3 Orange Alert"
+  },
+  "historical": [
+    { "date": "06-07", "temperature": 38.2, "heatRiskIndex": 72, "gridLoad": 68 },
+    { "date": "06-14", "temperature": 39.1, "heatRiskIndex": 75, "gridLoad": 71 },
+    { "date": "06-21", "temperature": 40.5, "heatRiskIndex": 81, "gridLoad": 78 },
+    { "date": "06-28", "temperature": 42.0, "heatRiskIndex": 89, "gridLoad": 86 },
+    { "date": "07-05", "temperature": 43.1, "heatRiskIndex": 94, "gridLoad": 95 }
+  ],
+  "forecast": [
+    { "day": "Mon", "temperature": 41.2, "risk": "High", "load": 88 },
+    { "day": "Tue", "temperature": 42.1, "risk": "High", "load": 92 },
+    { "day": "Wed", "temperature": 43.1, "risk": "Extreme", "load": 95 },
+    { "day": "Thu", "temperature": 42.8, "risk": "Extreme", "load": 94 },
+    { "day": "Fri", "temperature": 41.5, "risk": "High", "load": 89 },
+    { "day": "Sat", "temperature": 39.8, "risk": "Medium", "load": 78 },
+    { "day": "Sun", "temperature": 38.5, "risk": "Medium", "load": 70 }
+  ],
+  "budgetAllocation": [
+    { "name": "Tree Plantation", "value": 450000, "color": "#16A34A" },
+    { "name": "Cooling Centers", "value": 380000, "color": "#F97316" },
+    { "name": "Water Fountains", "value": 220000, "color": "#0EA5E9" },
+    { "name": "Emergency Medical", "value": 340000, "color": "#DC2626" },
+    { "name": "Cool Roof Subsidies", "value": 410000, "color": "#8B5CF6" }
+  ]
+}

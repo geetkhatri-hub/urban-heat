@@ -1,0 +1,101 @@
+{
+  "coolingCenters": [
+    {
+      "id": "cc-1",
+      "name": "Indiranagar Public Library Shelter",
+      "coordinates": [12.9690, 77.6440],
+      "capacity": 80,
+      "currentOccupancy": 68,
+      "waterAvailableLiters": 1200,
+      "acStatus": "Active",
+      "isEmergencyBackup": true
+    },
+    {
+      "id": "cc-2",
+      "name": "Whitefield Labor Transit Shelter",
+      "coordinates": [12.9610, 77.7350],
+      "capacity": 150,
+      "currentOccupancy": 142,
+      "waterAvailableLiters": 400,
+      "acStatus": "Misting Active",
+      "isEmergencyBackup": true
+    },
+    {
+      "id": "cc-3",
+      "name": "Koramangala Community Hall",
+      "coordinates": [12.9340, 77.6180],
+      "capacity": 100,
+      "currentOccupancy": 45,
+      "waterAvailableLiters": 2500,
+      "acStatus": "Active",
+      "isEmergencyBackup": false
+    },
+    {
+      "id": "cc-4",
+      "name": "Malleshwaram Metro Cooling Zone",
+      "coordinates": [13.0030, 77.5680],
+      "capacity": 120,
+      "currentOccupancy": 95,
+      "waterAvailableLiters": 1800,
+      "acStatus": "Active",
+      "isEmergencyBackup": false
+    },
+    {
+      "id": "cc-5",
+      "name": "Shivajinagar Bus Station Shelter",
+      "coordinates": [12.9840, 77.6020],
+      "capacity": 200,
+      "currentOccupancy": 190,
+      "waterAvailableLiters": 300,
+      "acStatus": "Misting Active",
+      "isEmergencyBackup": true
+    }
+  ],
+  "waterStations": [
+    {
+      "id": "ws-1",
+      "name": "Indiranagar Metro Fountains",
+      "type": "Hydration Kiosk",
+      "coordinates": [12.9785, 77.6385],
+      "status": "Operational",
+      "flowRate": "High",
+      "dailyUsageLiters": 480
+    },
+    {
+      "id": "ws-2",
+      "name": "Koramangala 80ft Rd Hub",
+      "type": "Water Tanker Station",
+      "coordinates": [12.9360, 77.6290],
+      "status": "Operational",
+      "flowRate": "Optimal",
+      "dailyUsageLiters": 3200
+    },
+    {
+      "id": "ws-3",
+      "name": "Whitefield Export Zone Hub",
+      "type": "Water Tanker Station",
+      "coordinates": [12.9560, 77.7480],
+      "status": "Maintenance",
+      "flowRate": "Low",
+      "dailyUsageLiters": 1200
+    },
+    {
+      "id": "ws-4",
+      "name": "Jayanagar 4th Block Park",
+      "type": "Smart Mist Fountain",
+      "coordinates": [12.9295, 77.5925],
+      "status": "Operational",
+      "flowRate": "Optimal",
+      "dailyUsageLiters": 650
+    },
+    {
+      "id": "ws-5",
+      "name": "Malleshwaram 15th Cross Fountain",
+      "type": "Hydration Kiosk",
+      "coordinates": [12.9995, 77.5725],
+      "status": "Operational",
+      "flowRate": "Optimal",
+      "dailyUsageLiters": 420
+    }
+  ]
+}

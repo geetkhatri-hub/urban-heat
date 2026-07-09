@@ -1,0 +1,50 @@
+[
+  {
+    "id": "rep-1",
+    "userName": "Rahul K.",
+    "category": "Broken Fountain",
+    "description": "The water hydration kiosk at Indiranagar Metro exit is leaking and there is no pressure. The water is hot.",
+    "severity": "Medium",
+    "coordinates": [12.9782, 77.6387],
+    "wardId": "ward-1",
+    "timestamp": "2026-07-06T14:12:00Z",
+    "status": "Pending",
+    "imageUrl": "https://images.unsplash.com/photo-1595079676339-1534801ad6cf?auto=format&fit=crop&w=300&q=80"
+  },
+  {
+    "id": "rep-2",
+    "userName": "Anjali Sharma",
+    "category": "Heat Exhaustion Case",
+    "description": "Elderly man collapsed near Koramangala post office. Passersby are giving water, but ambulance required immediately.",
+    "severity": "Critical",
+    "coordinates": [12.9348, 77.6212],
+    "wardId": "ward-2",
+    "timestamp": "2026-07-06T14:45:00Z",
+    "status": "Dispatched",
+    "imageUrl": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?auto=format&fit=crop&w=300&q=80"
+  },
+  {
+    "id": "rep-3",
+    "userName": "Vikram Sen",
+    "category": "Lack of Tree Shade",
+    "description": "Whitefield industrial road has zero tree coverage. Walkers are fainting. We need quick plantation or sun pergolas.",
+    "severity": "High",
+    "coordinates": [12.9640, 77.7420],
+    "wardId": "ward-3",
+    "timestamp": "2026-07-06T13:30:00Z",
+    "status": "Pending",
+    "imageUrl": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=300&q=80"
+  },
+  {
+    "id": "rep-4",
+    "userName": "Priya Gowda",
+    "category": "Cooling Center Demand",
+    "description": "Misting fan at Shivajinagar Bus Shelter is blowing hot air. The water tank seems empty.",
+    "severity": "High",
+    "coordinates": [12.9842, 77.6022],
+    "wardId": "ward-7",
+    "timestamp": "2026-07-06T15:01:00Z",
+    "status": "Dispatched",
+    "imageUrl": "https://images.unsplash.com/photo-1542044896530-05d85be9b11a?auto=format&fit=crop&w=300&q=80"
+  }
+]
