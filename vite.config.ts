@@ -4,7 +4,7 @@ import path from 'path';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/urban-heat/',
+  base: process.env.DEPLOY_TARGET === 'gh-pages' ? '/urban-heat/' : '/',
   plugins: [react()],
   resolve: {
     alias: {
